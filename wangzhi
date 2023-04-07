@@ -1,0 +1,71 @@
+csdn
+菜鸟教程
+https://www.runoob.com/
+
+k8spod的各种概念
+https://blog.csdn.net/u011628753/article/details/127263845
+
+shell脚本
+https://blog.csdn.net/weixin_42313749/article/details/120524768?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167897417116800222851543%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=167897417116800222851543&biz_id=0&utm_medium=distribute.wap_search_result.none-task-blog-2~all~top_positive~default-1-120524768-null-null.wap_first_rank_v2_rank_v29&utm_term=shell&spm=1018.2118.3001.4187
+
+https://kubesphere.io/zh/docs/v3.3/installing-on-linux/introduction/kubekey/   k8s 安装简单工具
+
+
+https://www.runoob.com/linux/linux-command-manual.html  linux命令大全
+
+https://linux265.com/course/linux-commands.html    linux   命令大全   2.0
+
+
+https://www.cnblogs.com/kezi/articles/15429019.html   k8s 命令大全
+
+
+https://www.jianshu.com/p/4bca8fe8a878
+https://zhuanlan.zhihu.com/p/74935718       21 条常用的linux命令
+zabbix 告警 | 告警收敛 https://www.jianshu.com/p/b29cf0682b58
+
+nginx 平滑升级
+https://juejin.cn/post/7049894610667044878
+nginx 优化总结
+https://zhuanlan.zhihu.com/p/456376971
+
+linux 查看文件的5个命令
+https://blog.csdn.net/weixin_43274002/article/details/124976396?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168077857116800197043150%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168077857116800197043150&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-1-124976396-null-null.142^v81^control,201^v4^add_ask,239^v2^insert_chatgpt&utm_term=linux%E6%9F%A5%E7%9C%8B%E6%96%87%E4%BB%B6%E5%86%85%E5%AE%B9%E5%91%BD%E4%BB%A4&spm=1018.2226.3001.4187 
+
+
+
+
+
+K8S
+
+
+k8s 
+k8s 5种控制器
+1：Deployment
+2：StatefulSet
+3：DaemonSet
+4：Job
+5：CronJob
+
+deployment
+https://blog.csdn.net/qq_46470349/article/details/120911842?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167961794016800184113759%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=167961794016800184113759&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-2-120911842-null-null.142^v76^control_1,201^v4^add_ask,239^v2^insert_chatgpt&utm_term=deployment&spm=1018.2226.3001.4187
+二
+https://blog.csdn.net/RtxTitanV/article/details/108296789?ops_request_misc=&request_id=&biz_id=102&utm_term=deployment&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-6-108296789.nonecase&spm=1018.2226.3001.4187
+
+DaemonSet
+https://www.cnblogs.com/hsyw/p/14173836.html
+二
+https://blog.csdn.net/weixin_45651006/article/details/118729032?ops_request_misc=&request_id=&biz_id=102&utm_term=DaemonSet&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-8-118729032.nonecase&spm=1018.2226.3001.4187
+
+SatefulSet
+https://www.cnblogs.com/xiangsikai/p/11424078.html
+
+service
+https://blog.csdn.net/huahua1999/article/details/124236875
+
+pvpvc
+https://blog.csdn.net/hanjinjuan/article/details/120770861
+
+创建pod    （ deployment  service  pod）
+https://blog.csdn.net/qq_48391148/article/details/127042156
+
+
